@@ -1,7 +1,7 @@
 ---
 title: "Einheit 9"
 subtitle: "⚔<br/>with xaringan"
-author: "Dr. Stephan Goerigk"
+author: "Prof. Dr. Stephan Goerigk"
 institute: "RStudio, PBC"
 date: "2016/12/12 (updated: `r Sys.Date()`)"
 output:
@@ -55,9 +55,9 @@ name: Title slide
 class: middle, left
 <br><br><br><br><br><br><br>
 # Statistik I
-
-### Einheit 10: Korrelation
-##### 10.01.2024 | Prof. Dr. phil. Stephan Goerigk
+***
+### Einheit 9: Korrelation
+#####  `r format(as.Date(data.frame(readxl::read_excel("Modul Quantitative Methoden I_Termine.xlsx"))$Datum), "%d.%m.%Y")[9]` | Prof. Dr. Stephan Goerigk
 
 ---
 class: top, left

@@ -55,9 +55,9 @@ name: Title slide
 class: middle, left
 <br><br><br><br><br><br><br>
 # Statistik I
-
+***
 ### Einheit 8: $t$-Test
-##### `r format(as.Date(data.frame(readxl::read_excel("Modul Quantitative Methoden I_Termine.xlsx"))$Datum), "%d.%m.%Y")[8]` | Prof. Dr. phil. Stephan Goerigk
+##### `r format(as.Date(data.frame(readxl::read_excel("Modul Quantitative Methoden I_Termine.xlsx"))$Datum), "%d.%m.%Y")[8]` | Prof. Dr. Stephan Goerigk
 
 ---
 class: top, left

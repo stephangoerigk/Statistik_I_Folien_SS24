@@ -54,9 +54,9 @@ name: Title slide
 class: middle, left
 <br><br><br><br><br><br><br>
 # Statistik I
-
+***
 ### Einheit 5: Stichprobe, Grundgesamtheit - Wahrscheinlichkeitstheorie und Verteilungen
-##### `r format(as.Date(data.frame(readxl::read_excel("Modul Quantitative Methoden I_Termine.xlsx"))$Datum), "%d.%m.%Y")[5]` | Prof. Dr. phil. Stephan Goerigk
+##### `r format(as.Date(data.frame(readxl::read_excel("Modul Quantitative Methoden I_Termine.xlsx"))$Datum), "%d.%m.%Y")[5]` | Prof. Dr. Stephan Goerigk
 
 ---
 class: top, left
