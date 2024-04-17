@@ -718,9 +718,9 @@ $$x_{sortiert}= `r paste(x[order(x)], collapse = ";")`$$
 $$n \cdot \alpha = `r n` \cdot 0.25 = `r n * 0.25` \rightarrow I_{0.25} = 4$$
 $$n \cdot \alpha = `r n` \cdot 0.75 = `r n * 0.75` \rightarrow I_{0.75} = 12$$
 
-$$q_{0.25} = x_{(I_{0.25})} = x_{(4)} = 6$$
-$$q_{0.75} = x_{(I_{0.75})} = x_{(12)} = 12$$
-$$q_{A}= \widetilde{x}_{0.75} - \widetilde{x}_{0.25} = 12 - 6 = 6$$
+$$q_{0.25} = x_{(I_{0.25})} = x_{(4)} = 9$$
+$$q_{0.75} = x_{(I_{0.75})} = x_{(12)} = 13$$
+$$q_{A}= \widetilde{x}_{0.75} - \widetilde{x}_{0.25} = 13 - 9 = 4$$
 
 </font>
 
@@ -756,9 +756,9 @@ Lösungweg:
 $$x_{sortiert}= `r paste(x[order(x)], collapse = ";")`$$
 $$n \cdot \alpha = `r n` \cdot 0.25 = `r n * 0.25` \rightarrow I_{0.25} = 5$$
 $$n \cdot \alpha = `r n` \cdot 0.75 = `r n * 0.75` \rightarrow I_{0.75} = 15$$
-$$q_{0.25} = \frac{x_{(I_{0.25})} + x_{(I_{0.25}+1)}}{2} = \frac{x_{(5)} + x_{(6)}}{2} = \frac{7 + 9}{2} = 8$$
+$$q_{0.25} = \frac{x_{(I_{0.25})} + x_{(I_{0.25}+1)}}{2} = \frac{x_{(5)} + x_{(6)}}{2} = \frac{9 + 9}{2} = 9$$
 $$q_{0.75} = \frac{x_{(I_{0.75})} + x_{(I_{0.75}+1)}}{2} = \frac{x_{(15)} + x_{(16)}}{2} = \frac{13 + 14}{2} = 13.5$$
-$$q_{A}= \widetilde{x}_{0.75} - \widetilde{x}_{0.25} = 13.5 - 8 =  5.5$$
+$$q_{A}= \widetilde{x}_{0.75} - \widetilde{x}_{0.25} = 13.5 - 9 =  4.5$$
 
 </font>
 
