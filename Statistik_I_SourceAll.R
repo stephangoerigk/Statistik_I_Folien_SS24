@@ -12,3 +12,5 @@ inf_mr("Statistik_I_9_SS24.Rmd")
 inf_mr("Statistik_I_10_SS24.Rmd")
 inf_mr("Statistik_I_11_SS24.Rmd")
 inf_mr("Statistik_I_12_SS24.Rmd")
+
+
