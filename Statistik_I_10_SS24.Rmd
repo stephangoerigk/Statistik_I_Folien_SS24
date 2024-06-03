@@ -64,7 +64,7 @@ class: middle, left
 <br><br><br><br><br><br><br>
 # Statistik I
 ***
-### Einheit 10: Verfahren für Nominaldaten - $\chi-$Test
+### Einheit 10: Verfahren für Nominaldaten - $\chi^2$-Test
 ##### `r format(as.Date(data.frame(readxl::read_excel("Modul Quantitative Methoden I_Termine.xlsx"))$Datum), "%d.%m.%Y")[10]` | Prof. Dr. Stephan Goerigk
 
 ---
@@ -75,7 +75,7 @@ class: top, left
 
 **Voraussetzungen bisher gelernter Tests:**
 
-* Wir kennen nun Hypothesentests für alle Kombinationen aus numerischen vs. kategorialen UVs
+* Wir kennen nun Hypothesentests einige Kombinationen aus numerischen vs. kategorialen UVs
 
 ```{r echo=FALSE}
 d = data.frame(
@@ -796,7 +796,7 @@ class: top, left
 
   * $H_0:$ Merkmale sind stochastisch unabhängig.
   
-  * $H_1:$ Es besteht irgendeine Art von Zusammenhang zwischen den Steufen des einen Merkmals und den Stufen des anderen Merkmals
+  * $H_1:$ Es besteht irgendeine Art von Zusammenhang zwischen den Stufen des einen Merkmals und den Stufen des anderen Merkmals
 
 ---
 class: top, left
