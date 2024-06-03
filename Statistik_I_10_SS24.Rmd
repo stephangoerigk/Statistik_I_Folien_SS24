@@ -64,7 +64,7 @@ class: middle, left
 <br><br><br><br><br><br><br>
 # Statistik I
 ***
-### Einheit 10: Verfahren für Nominaldaten - $\chi-$Test
+### Einheit 10: Verfahren für Nominaldaten - $\chi^2$-Test
 ##### `r format(as.Date(data.frame(readxl::read_excel("Modul Quantitative Methoden I_Termine.xlsx"))$Datum), "%d.%m.%Y")[10]` | Prof. Dr. Stephan Goerigk
 
 ---
